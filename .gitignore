@@ -1,0 +1,9 @@
+vendor
+src/core
+src/modules/contrib
+src/themes/contrib
+src/profiles/contrib
+
+src/sites/default/files
+
+.idea
